@@ -1,2 +1,2 @@
 # robo_arduino_proj
-Balancing inspired and adapted from https://github.com/mikerr/SonicBalancer
+Two-wheel inverted pendulum ultrasonic sensor balancing robot
